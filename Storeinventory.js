@@ -14,3 +14,6 @@ const storeInventoryInRupees = Object.fromEntries(
   );
   
   console.log(storeInventoryInRupees);
+
+
+  
